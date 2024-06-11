@@ -7,7 +7,7 @@ llm = ChatOpenAI(
     max_tokens=50,
     timeout=None,
     max_retries=2,
-    api_key="sk-proj-6w1ORHzEdyEAVnMkr3AaT3BlbkFJ0EolusFaSxDIaPLxhBFe",
+    api_key="your_key",
 )
 
 # Invoce the LLM
